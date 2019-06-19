@@ -6,5 +6,3 @@ domain. A is SPD and large. I use various methods to solve this.
 
 Then, I use some of the solver algorithms to smooth some rough data
 iteratively. See comments in code for details.
-
-C 2016, badpaca
